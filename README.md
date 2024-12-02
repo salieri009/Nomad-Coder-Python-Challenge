@@ -11,7 +11,8 @@ Python 챌린지는 특히 Python의 기초부터 실제 프로젝트 적용까�
 - Web Scraper 프로젝트
 
 # Web Scraper 구성 요소
-필요한 Python 라이브러리
+
+
 
 requests: 웹사이트와 HTTP 통신을 처리.
 BeautifulSoup: HTML 파싱 및 데이터 추출.
