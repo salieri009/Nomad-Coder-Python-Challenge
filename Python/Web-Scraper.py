@@ -12,7 +12,7 @@ response = requests.get(
 
 skills = ["python", "typescript", "javascript", "rust"]
 
-# /BLUEPRINT
+# /BLUEPRINT 
 
 # 👇🏻 YOUR CODE 👇🏻:
 
